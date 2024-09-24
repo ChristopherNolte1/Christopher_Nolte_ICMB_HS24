@@ -1,0 +1,11 @@
+---
+title: "First Assignment"
+author: "Christopher Nolte"
+---
+
+In this introductory assignment, I just want myself to make a simple plot. Here is an example:
+
+```{r}
+x <- rnorm(10000, mean = 100, sd = 15)
+hist(x)
+```
