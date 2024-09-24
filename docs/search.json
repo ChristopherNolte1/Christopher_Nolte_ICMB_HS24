@@ -4,14 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n\n Back to top"
+    "text": "About this site\n\nCode1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "First Assignment.html",
+    "href": "First Assignment.html",
+    "title": "First Assignment",
+    "section": "",
+    "text": "In this introductory assignment, I just want myself to make a simple plot. Here is an example:\n\nCodex &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Christopher_Nolte_ICMB_HS24",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n\n Back to top",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nCode1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "About",
       "Christopher_Nolte_ICMB_HS24"
