@@ -11,7 +11,11 @@
     "href": "First Assignment.html",
     "title": "First Assignment",
     "section": "",
-    "text": "In this introductory assignment, I just want myself to make a simple plot. Here is an example:\n\nCodex &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "In this introductory assignment, I just want myself to make a simple plot. Here is an example:\n\nCodex &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "About",
+      "First Assignment"
+    ]
   },
   {
     "objectID": "index.html",
