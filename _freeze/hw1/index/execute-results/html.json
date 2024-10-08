@@ -1,0 +1,15 @@
+{
+  "hash": "1f49b90b197f350e9d9f22ee34f77784",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"First Assignment\"\nauthor: \"Christopher Nolte\"\n---\n\n\n\n\nIn this introductory assignment, I just want myself to make a simple plot. Here is an example:\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
